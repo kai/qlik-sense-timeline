@@ -1,4 +1,5 @@
 // Hacked together aimlessly by Kai Hilton-Jones
+// Improved by Tim Payne
 
 require.config({
 	paths : {
@@ -116,7 +117,7 @@ define(["jquery", 'goog!visualization,1,packages:[corechart,table,timeline]'], f
 				});
 				data.addRows([values]);
 				//selections will always be on first dimension
-				//elemNos.push(row[0].qElemNumber);
+				elemNos.push(row[0].qElemNumber);
 			});
 			
 			var chart = new google.visualization.Timeline($element[0]);
@@ -138,14 +139,21 @@ define(["jquery", 'goog!visualization,1,packages:[corechart,table,timeline]'], f
 			});
 			//selections
 			var selections = [];
+			var tim= [];
 			google.visualization.events.addListener(chart, 'select', function(e) {
 				var sel = chart.getSelection();
-				sel.forEach(function(val) {
-					self.selectValues(0, [elemNos[val.row]], false);
-				});
-				selections = selections.concat(sel);
-				chart.setSelection(selections);
+				
+				tim=sel;
+				//sel.forEach(function(val) {
+					
+					selections[0]=elemNos[sel[0].row]
+					self.selectValues(0, selections, true);
+				//});
+				//chart.setSelection(tim);
+				//selections = selections.concat(sel);
 			});
+			//chart.setSelection([]);
+			//chart.setSelection(tim);
 
 		}
 	};
