@@ -35,7 +35,9 @@ Example configuration using three dimensions (without optional bar labels):
 
 ### Custom settings:
 
-Group row labels
-Show row labels
+Additional parameters can be set to change the appearance of the chart:
 
+- Show row labels: shows or hides the row labels in column 1
+- Group row labels: groups labels with the same name into a single row
+- 
 ![image](https://cloud.githubusercontent.com/assets/1283509/11931005/aec12122-a7e0-11e5-9dc4-0d04514df426.png)
