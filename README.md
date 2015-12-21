@@ -1,8 +1,10 @@
 # Qlik Sense Timeline Chart
 
-## Qlik Sense Timeline Chart using the Google Chart API
-
 Project Site: https://github.com/kaihj/qlik-sense-timeline
+
+Screenshot:
+
+![image](https://cloud.githubusercontent.com/assets/1283509/11930950/429d68f2-a7e0-11e5-87bd-11d620ec2400.png)
 
 ### Overview
 
@@ -28,6 +30,7 @@ Use 3 or 4 dimensions (no measures):
 You currently need to ensure that all start and end dates exist. Dates will need to be converted to YYYY-MM-DD as required by the Google Chart API.
 
 Three dimensions (without optional bar labels):
+
 ![image](https://cloud.githubusercontent.com/assets/1283509/11930981/79d05c8a-a7e0-11e5-9742-4366ed0b76ee.png)
 
 ### Custom settings:
@@ -36,9 +39,3 @@ Group row labels
 Show row labels
 
 ![image](https://cloud.githubusercontent.com/assets/1283509/11931005/aec12122-a7e0-11e5-9dc4-0d04514df426.png)
-
-====
-
-Screenshot:
-
-![image](https://cloud.githubusercontent.com/assets/1283509/11930950/429d68f2-a7e0-11e5-87bd-11d620ec2400.png)
