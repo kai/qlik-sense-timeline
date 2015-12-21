@@ -29,7 +29,7 @@ Use 3 or 4 dimensions (no measures):
 
 You currently need to ensure that all start and end dates exist. Dates will need to be converted to YYYY-MM-DD as required by the Google Chart API.
 
-Three dimensions (without optional bar labels):
+Example configuration using three dimensions (without optional bar labels):
 
 ![image](https://cloud.githubusercontent.com/assets/1283509/11930981/79d05c8a-a7e0-11e5-9742-4366ed0b76ee.png)
 
