@@ -9,7 +9,7 @@
 
 ## Overview
 
-The Qlik Sense Timeline Chart is a versatile chart that allows you to depict how multiple artifacts, be they projects or resources, are active or used over time in relation to each other.
+The Qlik Sense Timeline Chart is a chart extension for the use in [Qlik Sense](http://global.qlik.com/uk/explore/products/sense) Desktop or Server. It is versatile chart that allows you to depict how multiple artifacts, be they projects or resources, are active/used over time in relation to each other.
 
 Examples:
 
