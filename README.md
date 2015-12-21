@@ -2,7 +2,7 @@
 
 Project Site: https://github.com/kaihj/qlik-sense-timeline
 
-Screenshot:
+### Screenshot
 
 ![image](https://cloud.githubusercontent.com/assets/1283509/11930950/429d68f2-a7e0-11e5-87bd-11d620ec2400.png)
 
