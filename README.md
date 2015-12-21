@@ -1,12 +1,13 @@
-# Qlik Sense Timeline Chart
+# [Qlik Sense](http://global.qlik.com/uk/explore/products/sense) Timeline Chart
 
-Project Site: https://github.com/kaihj/qlik-sense-timeline
+GitHub URL: https://github.com/kaihj/qlik-sense-timeline
+Qlik Branch URL: http://branch.qlik.com/#/project/56728f52d1e497241ae697ef
 
-### Screenshot
+## Screenshot
 
 ![image](https://cloud.githubusercontent.com/assets/1283509/11930950/429d68f2-a7e0-11e5-87bd-11d620ec2400.png)
 
-### Overview
+## Overview
 
 The Qlik Sense Timeline Chart is a versatile chart that allows you to depict how multiple artifacts, be they projects or resources, are active or used over time in relation to each other.
 
@@ -18,7 +19,7 @@ Examples:
 
 The Qlik Sense Timeline Chart leverages the [Google Chart API](https://developers.google.com/chart/interactive/docs/gallery/timeline).
 
-### Usage
+## Usage
 
 Use 3 or 4 dimensions (no measures):
 
@@ -33,7 +34,7 @@ Example configuration using three dimensions (without optional bar labels):
 
 ![image](https://cloud.githubusercontent.com/assets/1283509/11930981/79d05c8a-a7e0-11e5-9742-4366ed0b76ee.png)
 
-### Custom settings:
+## Custom settings:
 
 Additional parameters can be set to change the appearance of the chart:
 
