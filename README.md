@@ -1,3 +1,5 @@
+_Please note that this extension is no longer being actively maintained by me. Please feel free to fork this repository, or [open an issue](https://github.com/kaihj/qlik-sense-timeline/issues/new) and ask me to transfer the ownership/maintainership of this project to you!_
+
 # [Qlik Sense](http://global.qlik.com/uk/explore/products/sense) Timeline Chart
 
 - GitHub URL: https://github.com/kaihj/qlik-sense-timeline
