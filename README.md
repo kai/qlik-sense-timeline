@@ -2,7 +2,7 @@ _Please note that this extension is no longer being actively maintained by me. P
 
 # [Qlik Sense](http://global.qlik.com/uk/explore/products/sense) Timeline Chart
 
-- GitHub URL: https://github.com/kaihj/qlik-sense-timeline
+- GitHub URL: https://github.com/kai/qlik-sense-timeline
 - Qlik Branch URL: http://branch.qlik.com/#/project/56728f52d1e497241ae697ef
 
 ## Screenshot
